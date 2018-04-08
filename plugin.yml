@@ -1,0 +1,19 @@
+name: SkyWarsTeamByPietro21x
+main: KaitoDoDo\SkyWarsTeam\SkyWarsTeam
+author: Pietro21x
+version: 0.0.2 ITALIANO BY PIETRO21X
+api: 3.0.0-ALPHA11
+
+commands:
+    stm:
+        usage: /stm <leave-make>
+        description: SkyWars-Commandi
+    lang:
+        usage: /lang <en>
+        description: SkyWars-English-Lang
+    rankstm:
+        usage: /rankstm
+        description: SkyRank-Commandi
+    stmstart:
+        usage: /stmstart
+        description: SkyWars-Forza Avvio
