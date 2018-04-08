@@ -1,5 +1,5 @@
 <?php
-# plugin echo per Pietro21x
+
 namespace KaitoDoDo\SkyWarsTeam;
 
 use pocketmine\plugin\PluginBase;
